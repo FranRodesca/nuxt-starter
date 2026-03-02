@@ -1,0 +1,128 @@
+{
+  "nav": {
+    "services": "Servicios",
+    "contact": "Contáctanos"
+  },
+  "footer": {
+    "copyright": "Derechos reservados",
+    "poweredBy": "Desarrollado con"
+  },
+  "hero": {
+    "title": "Planifica, gestiona y vende entradas para eventos inolvidables",
+    "description": "Tike es tu plataforma integral de gestión de eventos. Desde la venta de entradas en línea hasta aplicaciones personalizadas, ayudamos a los organizadores a ofrecer experiencias impecables a cualquier escala.",
+    "image": "images/hero.jpg",
+    "imageAlt": "Ilustración de plataforma de gestión de eventos",
+    "buttons": [
+      {
+        "label": "Empieza gratis",
+        "url": "#services"
+      }
+    ]
+  },
+  "logos": {
+    "title": "La confianza de organizadores de eventos en todo el mundo",
+    "icons": [
+      { "name": "i-simple-icons-spotify" },
+      { "name": "i-simple-icons-youtube" },
+      { "name": "i-simple-icons-instagram" },
+      { "name": "i-simple-icons-slack" },
+      { "name": "i-simple-icons-google" }
+    ]
+  },
+  "services": {
+    "title": "Nuestros servicios",
+    "description": "Soluciones integrales para dar vida a tus eventos, desde la planificación hasta el aplauso final.",
+    "items": [
+      {
+        "title": "Venta de entradas en línea",
+        "description": "Vende entradas fácilmente a través de nuestra tienda segura y personalizable. Soporte para múltiples tipos de entradas, precios anticipados, códigos promocionales y análisis de ventas en tiempo real.",
+        "icon": "ph:ticket-bold"
+      },
+      {
+        "title": "Software de gestión de eventos",
+        "description": "Optimiza cada aspecto de tu evento con herramientas potentes para programación, coordinación de proveedores, presupuestos y colaboración en equipo, todo en un solo panel.",
+        "icon": "ph:calendar-check-bold"
+      },
+      {
+        "title": "Ferias de arte",
+        "description": "Servicios especializados para ferias de arte y exposiciones culturales. Nos encargamos del diseño de galerías, coordinación de artistas, gestión de flujo de visitantes y experiencias curadas.",
+        "icon": "ph:palette-bold"
+      },
+      {
+        "title": "Apps personalizadas para eventos",
+        "description": "Aplicaciones móviles y web a medida para venta de entradas, monitoreo de asistencia en vivo, credenciales digitales, programas interactivos y notificaciones en tiempo real.",
+        "icon": "ph:device-mobile-bold"
+      }
+    ]
+  },
+  "features": {
+    "title": "¿Por qué elegir Tike?",
+    "description": "Combinamos una profunda experiencia en eventos con tecnología de vanguardia para hacer de cada evento un éxito.",
+    "items": [
+      {
+        "title": "Analítica en tiempo real",
+        "description": "Monitorea ventas de entradas, asistencia e ingresos en tiempo real con paneles intuitivos e informes detallados."
+      },
+      {
+        "title": "Check-in sin fricciones",
+        "description": "Sistemas de check-in rápidos con código QR y NFC que eliminan las colas y mejoran la experiencia del asistente."
+      },
+      {
+        "title": "Experiencia de marca",
+        "description": "Personaliza tus páginas de evento, entradas y aplicaciones con tu propia marca para una imagen totalmente coherente."
+      },
+      {
+        "title": "Infraestructura escalable",
+        "description": "Ya sea un taller de 50 personas o un festival de 50.000 asistentes, nuestra plataforma se adapta a tus necesidades."
+      },
+      {
+        "title": "Pagos seguros",
+        "description": "Procesamiento de pagos compatible con PCI, con soporte para múltiples monedas y métodos de pago en todo el mundo."
+      },
+      {
+        "title": "Soporte dedicado",
+        "description": "Nuestros especialistas en eventos están disponibles las 24 horas para ayudarte a planificar, lanzar y gestionar tus eventos."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Lo que dicen nuestros clientes",
+    "description": "Conoce a los organizadores de eventos que confían en Tike para ofrecer experiencias excepcionales.",
+    "items": [
+      {
+        "quote": "Tike transformó la manera en que gestionamos nuestra feria de arte anual. La app personalizada para credenciales de asistentes nos ahorró incontables horas y eliminó los cuellos de botella en el check-in.",
+        "author": {
+          "name": "Laura M.",
+          "title": "Directora en Metro Arts Festival",
+          "avatar": "images/person-1.jpg"
+        }
+      },
+      {
+        "quote": "Vendimos más de 10.000 entradas en la primera semana usando la plataforma de ventas en línea de Tike. La analítica en tiempo real nos dio la confianza para escalar nuestros esfuerzos de marketing en el momento adecuado.",
+        "author": {
+          "name": "Carlos R.",
+          "title": "Productor de eventos en SoundWave Events",
+          "avatar": "images/person-2.jpg"
+        }
+      },
+      {
+        "quote": "Desde la logística del recinto hasta la venta digital de entradas, el software de gestión de eventos de Tike mantiene a todo nuestro equipo alineado. Se ha convertido en una parte indispensable de nuestro flujo de trabajo.",
+        "author": {
+          "name": "Priya S.",
+          "title": "Líder de operaciones en Summit Conferences",
+          "avatar": "images/person-3.jpg"
+        }
+      }
+    ]
+  },
+  "cta": {
+    "title": "¿Listo para crear tu próximo evento?",
+    "description": "Únete a miles de organizadores que confían en Tike para planificar, gestionar y vender entradas para eventos de cualquier tamaño.",
+    "buttons": [
+      {
+        "label": "Empieza a planificar hoy",
+        "url": "#services"
+      }
+    ]
+  }
+}

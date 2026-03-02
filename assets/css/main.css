@@ -1,5 +1,26 @@
 @import "tailwindcss";
 
 @theme {
-  --font-display: "Helvetica", "sans-serif";
+  --font-heading: "Trade Gothic", "Helvetica Neue", "Arial", sans-serif;
+  --font-body: "Circular Pro", "Helvetica Neue", "Arial", sans-serif;
+
+  /* Primary color palette */
+  --color-primary-50: #f5f0ff;
+  --color-primary-100: #ede5ff;
+  --color-primary-200: #d4c4fe;
+  --color-primary-300: #b99ffd;
+  --color-primary-400: #7048F9;
+  --color-primary-500: #5722FA;
+  --color-primary-600: #523A9B;
+  --color-primary-700: #3E20B3;
+  --color-primary-800: #2e1885;
+  --color-primary-900: #1f1058;
+  --color-primary-950: #0f082c;
+
+  /* Secondary colors for alerts, badges, etc. */
+  --color-secondary-purple: #5722FA;
+  --color-secondary-yellow: #F9BE2B;
+  --color-secondary-orange: #F2623B;
+  --color-secondary-green: #009672;
+  --color-secondary-blue: #001CF1;
 }
