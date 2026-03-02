@@ -1,6 +1,5 @@
 <script setup>
-import pageData from '@/data/index.json'
-const page = ref(pageData)
+const { data: page } = useLocale()
 
 definePageMeta({
   layout: "default",
@@ -17,6 +16,11 @@ definePageMeta({
       :buttons="page.hero.buttons"
     ></Hero>
     <Logos :title="page.logos.title" :icons="page.logos.icons"></Logos>
+    <Services
+      :title="page.services.title"
+      :description="page.services.description"
+      :items="page.services.items"
+    ></Services>
     <Features
       :title="page.features.title"
       :description="page.features.description"
